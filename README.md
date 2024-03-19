@@ -2,6 +2,17 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7EKDC0)
 
+## To install the plugin [Modified]
+1. Install IntelliJ IDEA and open it. 
+2. Fork this repo and open it in IDEA
+3. Wander around and you'll find "exportPlugin", run it
+4. It will export the plugin
+5. Load the plugin though MCreator
+6. Close MCreator & reopen it
+7. Now, it should work
+- NOTE: Select the correct branch otherwise you'll end up exporting the wrong version.
+---
+
 A plugin for [MCreator](https://mcreator.net/), a code generator to create Minecraft mods. Adds a [Fabric](https://fabricmc.net/) generator type.
 
 This project is not official. It is not affiliated with the respective owners and maintainers of Fabric, Minecraft, or MCreator. Do not expect any official support from their communities.
