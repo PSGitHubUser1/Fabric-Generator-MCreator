@@ -1,6 +1,6 @@
 {
   "generator-fabric-1.19.2": {
-    "latest": "1.19.2-1.9",
+    "latest": "1.9.1",
     "changes": [
       "Updated FApi and FLoader version and some changes"
     ]
