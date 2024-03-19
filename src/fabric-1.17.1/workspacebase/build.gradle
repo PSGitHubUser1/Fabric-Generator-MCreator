@@ -20,6 +20,8 @@ dependencies {
 
     //Fabric api
     modImplementation "net.fabricmc.fabric-api:fabric-api:${generator.getGeneratorBuildFileVersion()}+1.17"
+    modImplementation "maven.modrinth:mOgUt4GM:7kh2ofyR" // Mod menu, v2.0.17
+    modImplementation "maven.modrinth:uXXizFIs:JQl5JoCm" // FerriteCore, v3.0.1
 }
 
 processResources {
