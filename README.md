@@ -10,7 +10,7 @@
 5. Load the plugin though MCreator
 6. Close MCreator & reopen it
 7. Now, it should work
-- Select the correct branch otherwise you'll end up exporting the wrong version.
+- NOTE: Select the correct branch otherwise you'll end up exporting the wrong version.
 ---
 
 A plugin for [MCreator](https://mcreator.net/), a code generator to create Minecraft mods. Adds a [Fabric](https://fabricmc.net/) generator type.
