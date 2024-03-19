@@ -1,4 +1,4 @@
-# MCreator Fabric Generator
+### MCreator Fabric Generator
 
 ## To install the plugin [Modified]
 1. Install IntelliJ IDEA and open it. 
