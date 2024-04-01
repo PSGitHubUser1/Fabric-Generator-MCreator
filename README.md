@@ -9,6 +9,8 @@
 5. Load the plugin though MCreator
 6. Close MCreator & reopen it
 7. Now, it should work
+
+IMPORTANT: Since this is a snapshot, you have to put the plugin in 'plugins' folder, in the folder from where you run 'mcreator.exe' snapshot. (Not one in Appdata or %userprofile%)
 - NOTE: Select the correct branch otherwise you'll end up exporting the wrong version.
 ---
 
