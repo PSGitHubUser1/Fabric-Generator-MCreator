@@ -5,10 +5,10 @@
   "weight":  11,
   "info": {
     "name": "Minecraft Fabric 1.20.1 Generator",
-    "version": "1.10",
+    "version": "1.11",
     "description": "A Fabric generator",
-    "author": "Goldorion",
-    "credits": "Thank you to all contributors and supporters on Ko-fi",
+    "author": "Goldorion & PSGitHubUser1",
+    "credits": "Gold: Thank you to all contributors and supporters on Ko-fi",
     "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Fabric-Generator-MCreator/1.20.1/update.json",
     "pluginPageID": 64512
   }
