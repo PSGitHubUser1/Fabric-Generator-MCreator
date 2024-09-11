@@ -3,7 +3,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7EKDC0)
 
 >[!TIP]
-> ## To Install the plugin in MCreator [Modified]
+> ## # To Install the plugin in MCreator [Modified]
 >1. Install IntelliJ IDEA and open it. 
 >2. Fork this repo and open it in IDEA
 >3. Wander around and you'll find "exportPlugin", run it
