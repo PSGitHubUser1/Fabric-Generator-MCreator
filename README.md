@@ -2,25 +2,29 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7EKDC0)
 
-## To install the plugin [Modified]
-1. Install IntelliJ IDEA and open it. 
-2. Fork this repo and open it in IDEA
-3. Wander around and you'll find "exportPlugin", run it
-4. It will export the plugin
-5. Load the plugin though MCreator
-6. Close MCreator & reopen it
-7. Now, it should work
-- NOTE: Select the correct branch otherwise you'll end up exporting the wrong version.
+>[!TIP]
+> ### To Install the plugin in MCreator [Modified]
+>1. Install IntelliJ IDEA and open it. 
+>2. Fork this repo and open it in IDEA
+>3. Wander around and you'll find "exportPlugin", run it
+>4. It will export the plugin
+>5. Load the plugin though MCreator
+>6. Close MCreator & reopen it
+>7. Now, it should work
+
+> [!NOTE]
+> - Select the correct branch otherwise you'll end up exporting the wrong version.
+
 ---
 
 A plugin for [MCreator](https://mcreator.net/), a code generator to create Minecraft mods. Adds a [Fabric](https://fabricmc.net/) generator type.
 
 This project is not official. It is not affiliated with the respective owners and maintainers of Fabric, Minecraft, or MCreator. Do not expect any official support from their communities.
 
-**The current targeted Minecraft version is 1.20.1.**
 
-## Features
-Mod elements that are not mentioned are completely supported with all available features with Fabric.
+> [!NOTE]
+> - Mod elements that are not mentioned are completely supported with all available features with Fabric.
+> - **The current targeted Minecraft version is 1.20.1 in this repo**
 
 ### Partially supported (almost completed)
 * Armor
@@ -37,9 +41,9 @@ Mod elements that are not mentioned are completely supported with all available 
 * Villager profession
 
 > [!IMPORTANT]
-- Make sure you use MCreator 2023.4 or later
-- Back up your workspace before updating to a newer version of the plugin.
-- Mods will also require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to function properly, so when you want to play your mod, make sure you have Fabric API.
+> - Make sure you use MCreator 2023.4 or later
+> - Back up your workspace before updating to a newer version of the plugin.
+> - Mods will also require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to function properly, so when you want to play your mod, make sure you have Fabric API.
 
 > ## Credits/License
 
