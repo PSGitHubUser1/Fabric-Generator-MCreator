@@ -24,7 +24,7 @@ This project is not official. It is not affiliated with the respective owners an
 
 > [!NOTE]
 > - Mod elements that are not mentioned are completely supported with all available features with Fabric.
-> - **The current targeted Minecraft version is 1.20.1 in this repo**
+> - The current targeted Minecraft version is 1.20.1 in this repository.
 
 ### Partially supported (almost completed)
 * Armor
