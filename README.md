@@ -36,7 +36,7 @@ Mod elements that are not mentioned are completely supported with all available 
 * Fluid
 * Villager profession
 
-## Important Information
+> [!IMPORTANT]
 - Make sure you use MCreator 2023.4 or later
 - Back up your workspace before updating to a newer version of the plugin.
 - Mods will also require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to function properly, so when you want to play your mod, make sure you have Fabric API.
